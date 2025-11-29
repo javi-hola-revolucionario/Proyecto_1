@@ -1,0 +1,15 @@
+body{   
+        background-color: blanchedalmond;
+    }
+
+.start {
+    font-family: 'Courier New', Courier, monospace;
+    background-color: beige;
+    color: black;
+}
+
+.mi_foto {
+    border: 5px solid vainilla;
+    width: 200px;
+    border-radius: 20%;
+}
